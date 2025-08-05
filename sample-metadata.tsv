@@ -1,0 +1,8 @@
+SampleID	plant organ	sampling location
+#q2:types	categorical	categorical
+AS1	leaf	sharm
+AS2	stem	sharm
+AS3	root	sharm
+AN1	leaf	industrial
+AN2	stem	industrial
+AN3	root	industrial

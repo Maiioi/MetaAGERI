@@ -1,0 +1,7 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+AN1	/content/MetaAGERI/AN1_1.fastq.gz	/content/MetaAGERI/AN1_2.fastq.gz
+AN2	/content/MetaAGERI/AN2_1.fastq.gz	/content/MetaAGERI/AN2_2.fastq.gz
+AN3	/content/MetaAGERI/AN3_1.fastq.gz	/content/MetaAGERI/AN3_2.fastq.gz
+AS1	/content/MetaAGERI/AS1_1.fastq.gz	/content/MetaAGERI/AS1_2.fastq.gz
+AS2	/content/MetaAGERI/AS2_1.fastq.gz	/content/MetaAGERI/AS2_2.fastq.gz
+AS3	/content/MetaAGERI/AS3_1.fastq.gz	/content/MetaAGERI/AS3_2.fastq.gz
